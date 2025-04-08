@@ -1,1 +1,1 @@
-Run the tru1.html file.
+Run the try1.html file.
